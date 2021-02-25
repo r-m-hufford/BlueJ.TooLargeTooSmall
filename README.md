@@ -10,7 +10,7 @@
 * To establish familiarity with
     * Control Flow
     * Conditionals
-    * Object instantation/declaration
+    * Object instantiation/declaration
     * Method invocation
 
 ### **Resources:**
